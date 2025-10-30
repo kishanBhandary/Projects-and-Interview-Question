@@ -1,0 +1,22 @@
+{
+  "name": "httpwithfile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha '__tests__/*.js' --reporter mochawesome --recursive  --timeout 6000 --exit",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "mocha": "^8.2.1",
+    "nodemon": "^3.1.4",
+    "mochawesome": "6.1.1"
+  }
+}
