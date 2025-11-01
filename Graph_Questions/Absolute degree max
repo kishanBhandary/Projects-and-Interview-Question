@@ -1,0 +1,13 @@
+
+def maxAbsoluteDegreeDiff(n, edgeList):
+    inn=[0]*n
+    out=[0]*n
+    for u,v in edgeList:
+        inn[u]+=1
+        out[v]+=1
+    maxx=0
+    for i in range(n):
+        diff=abs(inn[i]-out[i])
+        maxx=max(diff,maxx)
+    return maxx
+    return inn,out

@@ -1,0 +1,24 @@
+from collections import deque
+
+def shortestDistance(n, edges, src, dst):
+    adj = [[] for _ in range(n)]
+    for u, v in edges:
+        adj[u].append(v)
+        adj[v].append(u)
+
+    visited = [False] * n
+    queue = deque([(src, 0)]) 
+    visited[src] = True
+
+    while queue:
+        node, dist = queue.popleft()
+        
+        if node == dst:   
+            return dist
+        
+        for nei in adj[node]:
+            if not visited[nei]:
+                visited[nei] = True
+                queue.append((nei, dist + 1))
+    
+    return -1
