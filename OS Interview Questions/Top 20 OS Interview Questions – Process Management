@@ -1,0 +1,22 @@
+# Top 20 OS Interview Questions – Process Management
+
+1. What is a process?
+2. What are the different states of a process?
+3. What is a Process Control Block (PCB)?
+4. Explain the difference between program and process.
+5. What is context switching?
+6. What causes a context switch?
+7. What are the components stored during a context switch?
+8. What is a parent and child process?
+9. What is fork() and how does it work? (Linux)
+10. What is exec() system call?
+11. What is the difference between fork() and exec()?
+12. What is a zombie process?
+13. What is an orphan process?
+14. What is a daemon process?
+15. Explain cooperative vs preemptive multitasking.
+16. What is process scheduling?
+17. What is the difference between process and thread?
+18. What is multi-processing?
+19. What is the difference between CPU-bound and I/O-bound processes?
+20. How does the OS handle process termination?

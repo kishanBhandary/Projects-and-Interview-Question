@@ -1,0 +1,22 @@
+# Top 20 OS Interview Questions – Inter-Process Communication (IPC)
+
+1. What is IPC?
+2. Why is Inter-Process Communication needed?
+3. What are different IPC mechanisms?
+4. Explain pipes.
+5. Difference between named and unnamed pipes?
+6. What is a message queue?
+7. What is shared memory?
+8. How do processes access shared memory safely?
+9. What is a semaphore in IPC?
+10. What is a socket?
+11. Difference between TCP and UDP sockets?
+12. What is signal in IPC?
+13. How does RPC (Remote Procedure Call) work?
+14. What is memory-mapped communication?
+15. What is FIFO in IPC?
+16. What is the producer-consumer IPC model?
+17. What are advantages of shared memory over message passing?
+18. What are disadvantages of shared memory?
+19. How does OS manage IPC resources?
+20. What are real-time examples of IPC?

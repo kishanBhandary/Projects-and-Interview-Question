@@ -1,0 +1,22 @@
+# Top 20 OS Interview Questions – Virtual Memory
+
+1. What is virtual memory?
+2. Why is virtual memory needed?
+3. How does virtual memory work?
+4. What is demand paging?
+5. What is lazy loading?
+6. What is a page fault?
+7. What happens during a page fault?
+8. What is thrashing?
+9. What causes thrashing?
+10. How to prevent thrashing?
+11. What is working set model?
+12. What is page replacement?
+13. Explain FIFO page replacement.
+14. Explain LRU page replacement.
+15. Explain Optimal page replacement.
+16. What is Belady’s anomaly?
+17. What is swap space?
+18. What is memory mapped file?
+19. How does virtual memory improve multitasking?
+20. What are the advantages and disadvantages of virtual memory?

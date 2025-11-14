@@ -1,0 +1,22 @@
+# Top 20 OS Interview Questions – Threads & Multithreading
+
+1. What is a thread?
+2. What is the difference between process and thread?
+3. What are the advantages of multithreading?
+4. What is single-threaded vs multi-threaded process?
+5. What is concurrency?
+6. What is parallelism?
+7. Explain user-level threads vs kernel-level threads.
+8. What is a lightweight process?
+9. What is a thread control block (TCB)?
+10. How does context switching work for threads?
+11. What is a race condition?
+12. What is thread safety?
+13. What is a reentrant function?
+14. What are the different states of a thread?
+15. Explain thread synchronization.
+16. What is deadlock in threads?
+17. What is starvation in multithreading?
+18. What is a thread pool?
+19. Explain advantages of using thread pools.
+20. How does OS schedule threads?

@@ -1,0 +1,22 @@
+# Top 20 OS Interview Questions – Process Synchronization
+
+1. What is process synchronization?
+2. Why is synchronization needed in an OS?
+3. What is a critical section?
+4. What are the requirements of a critical section solution?
+5. What is a race condition?
+6. What is mutual exclusion?
+7. Explain semaphores.
+8. What is the difference between binary and counting semaphores?
+9. What is a mutex?
+10. Difference between mutex and semaphore?
+11. What are monitors?
+12. What is the producer-consumer problem?
+13. Explain the readers-writers problem.
+14. Explain the dining philosophers problem.
+15. What is deadlock in synchronization?
+16. What is starvation?
+17. What is busy waiting?
+18. What is spinlock?
+19. Explain condition variables.
+20. What are atomic operations?

@@ -1,0 +1,23 @@
+# Top 20 OS Interview Questions – System Calls
+
+1. What is a system call?
+2. Why are system calls needed?
+3. What is the difference between system call and function call?
+4. What are the types of system calls?
+5. What is a user mode and kernel mode switch?
+6. Explain the read() system call.
+7. Explain the write() system call.
+8. Explain fork() system call.
+9. Explain exec() system call.
+10. Explain wait() system call.
+11. What is exit() system call?
+12. What is ioctl()?
+13. What is the purpose of getpid()?
+14. What is the purpose of open(), close()?
+15. What is trap instruction?
+16. What is a system call interface (SCI)?
+17. How does OS handle system call exceptions?
+18. What is synchronous vs asynchronous system call?
+19. How does Linux implement system calls?
+20. What are the security implications of system calls?
+

@@ -1,0 +1,22 @@
+# Top 20 OS Interview Questions – Deadlocks
+
+1. What is a deadlock?
+2. What are the four necessary conditions for deadlock? (Coffman conditions)
+3. What is mutual exclusion?
+4. What is hold and wait?
+5. What is no preemption?
+6. What is circular wait?
+7. What are the methods for handling deadlocks?
+8. What is deadlock prevention?
+9. What is deadlock avoidance?
+10. What is deadlock detection?
+11. What is recovery from deadlock?
+12. What is a safe state?
+13. What is an unsafe state?
+14. Explain the Banker's Algorithm.
+15. What is resource allocation graph (RAG)?
+16. How is RAG used to detect deadlocks?
+17. What are wait-for graphs?
+18. What is starvation and how is it different from deadlock?
+19. What is livelock?
+20. How can deadlocks be minimized in real systems?

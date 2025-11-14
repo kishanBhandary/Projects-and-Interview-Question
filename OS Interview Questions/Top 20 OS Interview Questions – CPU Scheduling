@@ -1,0 +1,23 @@
+# Top 20 OS Interview Questions – CPU Scheduling
+
+1. What is CPU scheduling?
+2. Why is CPU scheduling needed?
+3. What are the goals of CPU scheduling?
+4. What is burst time?
+5. What is arrival time?
+6. What is turnaround time?
+7. What is waiting time?
+8. What is response time?
+9. Explain FCFS (First Come First Serve) scheduling.
+10. Explain SJF (Shortest Job First) scheduling.
+11. What is the difference between SJF and SRTF?
+12. Explain Round Robin scheduling.
+13. What is a time quantum?
+14. What is priority scheduling?
+15. What is preemptive vs non-preemptive scheduling?
+16. What is multilevel queue scheduling?
+17. What is multilevel feedback queue scheduling?
+18. What is CPU utilization?
+19. What is throughput?
+20. How do scheduling algorithms  affect system performance? 
+

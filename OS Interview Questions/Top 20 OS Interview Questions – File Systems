@@ -1,0 +1,22 @@
+# Top 20 OS Interview Questions – File Systems
+
+1. What is a file in an operating system?
+2. What is a file system?
+3. What are the different types of file systems?
+4. What is a directory?
+5. What is the difference between file and directory?
+6. What are file attributes?
+7. What are file operations in an OS?
+8. What is file metadata?
+9. What is a file descriptor?
+10. What is contiguous file allocation?
+11. What is linked file allocation?
+12. What is indexed file allocation?
+13. What is inode in Linux?
+14. What is a mount point?
+15. What is journaling in file systems?
+16. Explain FAT, NTFS, ext4 file systems.
+17. What is free space management?
+18. What is file fragmentation?
+19. What is directory structure (single-level, two-level, tree)?
+20. How does the OS ensure file system integrity?

@@ -1,0 +1,22 @@
+# Top 20 OS Interview Questions – Paging
+
+1. What is paging?
+2. Why is paging used?
+3. What is a page?
+4. What is a frame?
+5. What is a page table?
+6. What is the role of MMU in paging?
+7. What is TLB (Translation Lookaside Buffer)?
+8. What is the advantage of TLB?
+9. What is internal fragmentation in paging?
+10. What is multi-level paging?
+11. What is inverted page table?
+12. What is demand paging?
+13. What is a page fault?
+14. What happens during a page fault?
+15. What is page hit and page miss?
+16. What is a valid/invalid bit in page table?
+17. How does paging support virtual memory?
+18. What are shared pages?
+19. Difference between paging and segmentation?
+20. What are the disadvantages of paging?

@@ -1,0 +1,22 @@
+# Top 20 OS Interview Questions – Page Replacement Algorithms
+
+1. What is page replacement?
+2. Why do we need page replacement algorithms?
+3. What is a page fault?
+4. What is page hit and page miss?
+5. Explain FIFO page replacement.
+6. What is Belady’s anomaly?
+7. Explain Optimal (OPT) page replacement.
+8. Why is OPT not used in real systems?
+9. Explain LRU (Least Recently Used).
+10. Explain LFU (Least Frequently Used).
+11. Explain MFU (Most Frequently Used).
+12. What is NRU (Not Recently Used)?
+13. What is second chance algorithm?
+14. Explain clock page replacement.
+15. What is the difference between LRU and LFU?
+16. What is the difference between FIFO and LRU?
+17. Why do page replacement algorithms matter?
+18. What is the impact of page size on replacement performance?
+19. How does working set affect page replacement?
+20. What are advantages and disadvantages of different page replacement algorithms?

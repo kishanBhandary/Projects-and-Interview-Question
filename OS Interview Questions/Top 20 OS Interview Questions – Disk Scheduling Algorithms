@@ -1,0 +1,22 @@
+# Top 20 OS Interview Questions – Disk Scheduling Algorithms
+
+1. What is disk scheduling?
+2. Why is disk scheduling needed?
+3. What is seek time?
+4. What is rotational latency?
+5. What is disk access time?
+6. Explain FCFS disk scheduling.
+7. Explain SSTF (Shortest Seek Time First).
+8. What is starvation in SSTF?
+9. Explain SCAN algorithm.
+10. What is Elevator algorithm?
+11. Explain C-SCAN.
+12. Explain LOOK scheduling.
+13. Explain C-LOOK.
+14. Difference between SCAN and LOOK.
+15. Difference between C-SCAN and C-LOOK.
+16. What factors affect disk scheduling performance?
+17. What is disk arm movement?
+18. What is disk queue?
+19. How does SSD scheduling differ from HDD?
+20. Which disk scheduling algorithm is best and why?

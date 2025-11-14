@@ -1,0 +1,22 @@
+# Top 20 OS Interview Questions – Memory Management
+
+1. What is memory management in an OS?
+2. What is logical vs physical address?
+3. What is MMU (Memory Management Unit)?
+4. What is contiguous memory allocation?
+5. Explain fixed and dynamic partitioning.
+6. What is external fragmentation?
+7. What is internal fragmentation?
+8. What is paging?
+9. What is page table?
+10. What is TLB (Translation Lookaside Buffer)?
+11. What is segmentation?
+12. Difference between paging and segmentation?
+13. What is virtual memory?
+14. What is demand paging?
+15. What is a page fault?
+16. What is swapping?
+17. Explain memory compaction.
+18. What is the backing store?
+19. What are shared pages?
+20. How does the OS protect memory?

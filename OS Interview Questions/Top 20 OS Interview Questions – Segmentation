@@ -1,0 +1,22 @@
+# Top 20 OS Interview Questions – Segmentation
+
+1. What is segmentation in OS?
+2. Why is segmentation used?
+3. What is a segment?
+4. What is a segment table?
+5. What is segment number and offset?
+6. What is external fragmentation in segmentation?
+7. Difference between paging and segmentation?
+8. What is segmentation fault?
+9. What is protected segmentation?
+10. What is the logical address structure in segmentation?
+11. What is shared segment?
+12. How does segmentation support modular programming?
+13. What is segmented paging?
+14. What are the advantages of segmentation?
+15. What are the disadvantages of segmentation?
+16. What is virtual segmentation?
+17. What is the difference between segmentation and partitioning?
+18. What is two-level segmentation?
+19. What happens during segment loading?
+20. How does segmentation help in memory protection?
