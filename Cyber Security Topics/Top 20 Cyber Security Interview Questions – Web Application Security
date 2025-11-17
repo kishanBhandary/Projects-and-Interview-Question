@@ -1,0 +1,22 @@
+# Top 20 Cyber Security Interview Questions – Web Application Security
+
+1. What is web application security?
+2. Why are web applications commonly attacked?
+3. What is HTTPS?
+4. What is CORS (Cross-Origin Resource Sharing)?
+5. What is CSRF (Cross-Site Request Forgery)?
+6. What is XSS (Cross-Site Scripting)?
+7. Difference between stored, reflected, and DOM XSS?
+8. What is SQL injection?
+9. What is command injection?
+10. What is directory traversal attack?
+11. What is SSRF (Server-Side Request Forgery)?
+12. What is clickjacking?
+13. What is rate limiting?
+14. What is CAPTCHA used for?
+15. What is session hijacking?
+16. What is cookie security? (HttpOnly, Secure, SameSite)
+17. What is input validation?
+18. What is output encoding?
+19. What are common security headers? (CSP, HSTS, X-Frame-Options)
+20. Best practices for securing web applications?

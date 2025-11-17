@@ -1,0 +1,22 @@
+# Top 20 Cyber Security Interview Questions – Encryption Algorithms (AES, RSA, SHA, etc.)
+
+1. What is an encryption algorithm?
+2. What is AES (Advanced Encryption Standard)?
+3. Difference between AES-128, AES-192, and AES-256?
+4. What is RSA encryption?
+5. How does RSA key generation work?
+6. What is the difference between RSA and AES?
+7. What is DES and why is it outdated?
+8. What is Triple DES (3DES)?
+9. What is Blowfish?
+10. What is Twofish?
+11. What is ECC (Elliptic Curve Cryptography)?
+12. What is hashing? (SHA, MD5)
+13. Difference between SHA-1, SHA-2, and SHA-3?
+14. Why is MD5 considered insecure?
+15. What is HMAC?
+16. What is digital signing?
+17. What is key stretching?
+18. What is PBKDF2, bcrypt, and scrypt?
+19. What is a cryptographic hash collision?
+20. Real-world examples of where these algorithms are used.

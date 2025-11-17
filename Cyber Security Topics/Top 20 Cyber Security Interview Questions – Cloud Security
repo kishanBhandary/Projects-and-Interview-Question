@@ -1,0 +1,22 @@
+# Top 20 Cyber Security Interview Questions – Cloud Security
+
+1. What is cloud security?
+2. What are the main cloud service models (IaaS, PaaS, SaaS)?
+3. What are the cloud deployment models (Public, Private, Hybrid)?
+4. What is shared responsibility model?
+5. What are common cloud security challenges?
+6. What is data encryption at rest and in transit?
+7. What is IAM in cloud (Identity and Access Management)?
+8. What is key management service (KMS)?
+9. What is tenant isolation?
+10. What is cloud misconfiguration?
+11. What is a cloud security posture management (CSPM)?
+12. What is container security?
+13. What is serverless security?
+14. How to secure APIs in cloud?
+15. What is VPC (Virtual Private Cloud)?
+16. What is network segmentation in cloud?
+17. What are cloud compliance standards (SOC2, ISO 27001, PCI-DSS)?
+18. What is data loss prevention (DLP) in cloud?
+19. How to respond to incidents in cloud environments?
+20. Real-world examples of cloud security breaches and lessons learned.

@@ -1,0 +1,23 @@
+# Top 20 Cyber Security Interview Questions – Authentication & Authorization
+
+1. What is authentication?
+2. What is authorization?
+3. Difference between authentication and authorization?
+4. What are the different types of authentication?
+5. What is MFA (Multi-Factor Authentication)?
+6. What is 2FA?
+7. What are authentication factors? (Something you know, have, are)
+8. What is biometric authentication?
+9. What is SSO (Single Sign-On)?
+10. What is OAuth?
+11. What is OpenID Connect?
+12. What is JWT (JSON Web Token)?
+13. What is LDAP?
+14. What is SAML?
+15. What is session management?
+16. What is password hashing?
+17. What is password salting?
+18. What is RBAC (Role-Based Access Control)?
+19. What is ABAC (Attribute-Based Access Control)?
+20. What is IAM (Identity and Access Management)?
+21. Real-world examples of authentication systems.

@@ -1,0 +1,22 @@
+# Top 20 Cyber Security Interview Questions – OWASP Top 10
+
+1. What is OWASP?
+2. Why is OWASP Top 10 important?
+3. What is Broken Access Control?
+4. What is Cryptographic Failures?
+5. What is Injection?
+6. What is Insecure Design?
+7. What is Security Misconfiguration?
+8. What is Vulnerable and Outdated Components?
+9. What is Identification and Authentication Failures?
+10. What is Software and Data Integrity Failures?
+11. What is Security Logging and Monitoring Failures?
+12. What is Server-Side Request Forgery (SSRF)?
+13. How does an attacker exploit injection flaws?
+14. How to prevent Broken Access Control?
+15. What are examples of Cryptographic Failures?
+16. How to prevent Security Misconfiguration?
+17. What tools can detect vulnerabilities from OWASP Top 10?
+18. How does OWASP help in penetration testing?
+19. How often are OWASP Top 10 updated?
+20. Real-world examples of OWASP vulnerabilities.

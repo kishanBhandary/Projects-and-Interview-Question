@@ -1,0 +1,22 @@
+# Top 20 Cyber Security Interview Questions – SQL Injection & XSS
+
+1. What is SQL Injection?
+2. How does SQL Injection work?
+3. What are the types of SQL Injection?
+4. What is blind SQL Injection?
+5. What is time-based SQL Injection?
+6. What tools are used to detect SQL Injection?
+7. How to prevent SQL Injection?
+8. What is XSS (Cross-Site Scripting)?
+9. What are the types of XSS? (Stored, Reflected, DOM)
+10. How does XSS work?
+11. What is the difference between XSS and CSRF?
+12. What is input sanitization?
+13. What is output encoding?
+14. What is Content Security Policy (CSP)?
+15. How to prevent XSS in web apps?
+16. What are XSS payloads?
+17. What tools detect XSS vulnerabilities?
+18. What is cookie theft via XSS?
+19. Real-world examples of SQL Injection attacks?
+20. Real-world examples of XSS attacks?

@@ -1,0 +1,22 @@
+# Top 20 Cyber Security Interview Questions – Firewalls, IDS & IPS
+
+1. What is a firewall?
+2. Why are firewalls used?
+3. Difference between hardware and software firewalls?
+4. What is packet-filtering firewall?
+5. What is stateful inspection firewall?
+6. What is a proxy firewall?
+7. What is a Next-Generation Firewall (NGFW)?
+8. What is IDS (Intrusion Detection System)?
+9. What is IPS (Intrusion Prevention System)?
+10. Difference between IDS and IPS?
+11. What is HIDS and NIDS?
+12. What is signature-based detection?
+13. What is anomaly-based detection?
+14. What are false positives and false negatives?
+15. What is a DMZ?
+16. What is firewall rule ordering and why is it important?
+17. What is port blocking?
+18. How do firewalls prevent DoS attacks?
+19. What are common IDS/IPS tools?
+20. Real-time examples of firewall usage.

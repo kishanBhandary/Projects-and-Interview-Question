@@ -1,0 +1,22 @@
+# Top 20 Cyber Security Interview Questions – Security Tools (Nmap, Wireshark, Burp Suite, Metasploit)
+
+1. What is Nmap? What is it used for?
+2. What is a port scan?
+3. What is the difference between TCP SYN scan and UDP scan?
+4. What is OS fingerprinting?
+5. What is Wireshark?
+6. What is packet sniffing?
+7. How does Wireshark capture and analyze packets?
+8. What are filters in Wireshark?
+9. What is Burp Suite?
+10. What is an intercepting proxy?
+11. What is Burp Intruder?
+12. What is Burp Scanner?
+13. What is Metasploit Framework?
+14. What is an exploit in Metasploit?
+15. What is a payload?
+16. What is msfconsole?
+17. What are auxiliary modules in Metasploit?
+18. What is Nikto and what is it used for?
+19. What is OWASP ZAP?
+20. Real-world examples of how security tools are used in pentesting.

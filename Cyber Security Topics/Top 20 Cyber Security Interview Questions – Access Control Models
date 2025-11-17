@@ -1,0 +1,22 @@
+# Top 20 Cyber Security Interview Questions – Access Control Models
+
+1. What is access control?
+2. Why is access control important?
+3. What is DAC (Discretionary Access Control)?
+4. What is MAC (Mandatory Access Control)?
+5. What is RBAC (Role-Based Access Control)?
+6. What is ABAC (Attribute-Based Access Control)?
+7. Difference between DAC, MAC, and RBAC?
+8. What is rule-based access control?
+9. What is context-based access control?
+10. What is privilege escalation?
+11. What is the principle of least privilege?
+12. What is separation of duties?
+13. What is access control list (ACL)?
+14. How does RBAC work in real systems?
+15. What is policy-based access control?
+16. What is zero trust access control?
+17. What is capability-based access control?
+18. What is user provisioning?
+19. What is identity governance?
+20. Real-time examples of access control models.

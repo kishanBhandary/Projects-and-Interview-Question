@@ -1,0 +1,22 @@
+# Top 20 Cyber Security Interview Questions – Cryptography
+
+1. What is cryptography?
+2. What are the goals of cryptography? (CIA + Non-repudiation)
+3. What is encryption and decryption?
+4. What is plaintext and ciphertext?
+5. Difference between symmetric and asymmetric encryption?
+6. What is a key in cryptography?
+7. What is a cipher?
+8. What is hashing?
+9. Difference between hashing and encryption?
+10. What is digital signature?
+11. What is public key infrastructure (PKI)?
+12. What is a certificate authority (CA)?
+13. What is SSL/TLS handshake?
+14. What is a cryptographic nonce?
+15. What is salting?
+16. What is key exchange?
+17. What is Diffie-Hellman algorithm?
+18. What is RSA algorithm?
+19. What is AES encryption?
+20. What are common cryptographic attacks?
