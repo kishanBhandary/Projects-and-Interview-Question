@@ -1,4 +1,4 @@
-# Projects and Interview Questionss 
+# Projects and Interview Questions
 
 A comprehensive collection of programming projects, coding problems, interview questions, and reference programs in multiple languages. This repository is designed to help students, beginners, and developers practice programming and prepare for technical interviews.
 
