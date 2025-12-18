@@ -1,4 +1,4 @@
-# C Interview Questions & Resources
+# C Interview Questions & Resources and  Projects 
 
 Welcome to the C programming interview preparation section! This directory contains comprehensive resources to help you prepare for C programming interviews.
 
