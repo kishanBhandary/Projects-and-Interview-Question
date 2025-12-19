@@ -4,6 +4,7 @@
 #include <iomanip>
 using namespace std;
 
+
 struct Attendance {
     int empID;
     string name;
